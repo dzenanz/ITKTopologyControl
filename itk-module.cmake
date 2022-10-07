@@ -16,8 +16,6 @@ itk_module(TopologyControl
     ITKCommon
     ITKBinaryMathematicalMorphology
     ITKDistanceMap
-  COMPILE_DEPENDS
-    ITKCommon
   TEST_DEPENDS
     ITKTestKernel
     ITKMetaIO
